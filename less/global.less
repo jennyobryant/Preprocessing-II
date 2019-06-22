@@ -49,6 +49,10 @@ img {
   flex-grow: 1;
 }
 
-.flex-h{
+.flex{
   display: flex; 
+  @media @mobile {
+    flex-direction: column; 
+    align-items: center; 
+  }
 }
