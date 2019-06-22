@@ -245,3 +245,22 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .heading {
+  border-bottom: 2px dashed #C0C0C0;
+  padding-bottom: 14px;
+}
+.home .bus {
+  margin-bottom: 21px;
+}
+.home .btn {
+  background-color: #008080;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-color: white;
+  height: 50px;
+  border-radius: 15px;
+  font-size: 21px;
+  color: white;
+  width: 80%;
+}
